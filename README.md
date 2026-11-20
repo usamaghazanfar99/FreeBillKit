@@ -6,7 +6,7 @@ FreeBillKit is a free, no-signup business document generator that runs entirely 
 - Invoice Generator: https://freebillkit.com/invoice-generator/
 - Receipt Generator: https://freebillkit.com/receipt-generator/
 
-## Live listings (313)
+## Live listings (322)
 
 Every link below is a live public listing for FreeBillKit — name, bio and a clickable link to freebillkit.com, verified in a logged-out view. List updated 2026-11-20.
 
@@ -323,6 +323,15 @@ Every link below is a live public listing for FreeBillKit — name, bio and a cl
 311. [pad.freifunk.net](https://pad.freifunk.net/p/freebillkit)
 312. [pad.crans.org](https://pad.crans.org/p/freebillkit)
 313. [pad.linuxheilbronn.de](https://pad.linuxheilbronn.de/p/freebillkit)
+314. [pad.freifunk-stuttgart.de](https://pad.freifunk-stuttgart.de/p/freebillkit)
+315. [pad.hacksaar.de](https://pad.hacksaar.de/p/freebillkit)
+316. [pad.constantvzw.org](https://pad.constantvzw.org/p/freebillkit)
+317. [pad.queerweg.de](https://pad.queerweg.de/p/freebillkit)
+318. [pad.okfn.de](https://pad.okfn.de/p/freebillkit)
+319. [pad.technikkultur-erfurt.de](https://pad.technikkultur-erfurt.de/p/freebillkit)
+320. [etherpad.p2pu.org](https://etherpad.p2pu.org/p/freebillkit)
+321. [etherpad.servus.at](https://etherpad.servus.at/p/freebillkit)
+322. [pad.yanapak.org](https://pad.yanapak.org/p/freebillkit)
 
 ---
 
